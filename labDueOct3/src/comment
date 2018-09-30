@@ -1,0 +1,137 @@
+
+Listing of books in the library
+
+Author: Samuel A. Rebelsky and Philip Barker
+ title: ED-MEDIA 2002 : World Conference on Educational Multimedia, Hypermedia & Telecommunications
+  isbn : 14. 1-880094-45-2
+ callNumber: 64.2 25e
+book available on shelves
+
+Author: Samuel A. Rebelsky
+ title: Experiments in Java
+  isbn : 0201612674
+ callNumber: 64.2 R25ex
+collection: Iowa Room
+
+Author: Henry M. Walker
+ title: Problems for Computer Solution using FORTRAN
+  isbn : 0-87626-654-5
+ callNumber: QA43.W34
+book available on shelves
+
+Author: Henry M. Walker
+ title: Introduction to Computing and Computer Science with Pascal
+  isbn : 0-316-91841-5
+ callNumber: QA76.6.W3275
+book available on shelves
+
+Author: Henry M. Walker
+ title: Problems for Computer Solution using BASIC
+  isbn : 0-87626-717-7
+ callNumber: QA76.73.B3W335
+collection: Iowa Room
+
+Author: Henry M. Walker
+ title: Pascal:  Problem Solving and Structured Program Design
+  isbn : 0-316-91848-2
+ callNumber: QA76.73.P2W35
+book available on shelves
+
+Author: Henry M. Walker
+ title: Computer Science 2:  Principles of Software Engineering, Data Types, and Algorithms
+  isbn : 0-673-39829-3
+ callNumber: QA76.758.W35
+book available on shelves
+
+Author: Henry M. Walker
+ title: The Limits of Computing
+  isbn : 0-7637-2552-8
+ callNumber: QA76.W185
+book available on shelves
+
+Author: Henry M. Walker
+ title: The Tao of Computing
+  isbn : 0-86720-206-8
+ callNumber: QA76.W1855
+book available on shelves
+
+Author: John David Stone
+ title: Algorithms for functional programming
+  isbn : in process
+ callNumber: forthcoming
+book available on shelves
+
+End of book listing
+
+Can't checkout reference book: Experiments in Java
+Book 12345 not found -- checkout impossible
+
+The book Problems for Computer Solution using FORTRAN has already been checked out
+Can't checkout reference book: Problems for Computer Solution using BASIC
+reference bookExperiments in Java could not have been checked out -- return impossible
+The book Introduction to Computing and Computer Science with Pascal has already been returned
+
+Listing of books in the library
+
+Author: Samuel A. Rebelsky and Philip Barker
+ title: ED-MEDIA 2002 : World Conference on Educational Multimedia, Hypermedia & Telecommunications
+  isbn : 14. 1-880094-45-2
+ callNumber: 64.2 25e
+Checked out by: Minnie Mouse untill April 1, 2012
+
+Author: Samuel A. Rebelsky
+ title: Experiments in Java
+  isbn : 0201612674
+ callNumber: 64.2 R25ex
+collection: Iowa Room
+
+Author: Henry M. Walker
+ title: Problems for Computer Solution using FORTRAN
+  isbn : 0-87626-654-5
+ callNumber: QA43.W34
+Checked out by: Donald Duck untill March 1, 2012
+
+Author: Henry M. Walker
+ title: Introduction to Computing and Computer Science with Pascal
+  isbn : 0-316-91841-5
+ callNumber: QA76.6.W3275
+Checked out by: Goofy untill March 28, 2012
+
+Author: Henry M. Walker
+ title: Problems for Computer Solution using BASIC
+  isbn : 0-87626-717-7
+ callNumber: QA76.73.B3W335
+collection: Iowa Room
+
+Author: Henry M. Walker
+ title: Pascal:  Problem Solving and Structured Program Design
+  isbn : 0-316-91848-2
+ callNumber: QA76.73.P2W35
+book available on shelves
+
+Author: Henry M. Walker
+ title: Computer Science 2:  Principles of Software Engineering, Data Types, and Algorithms
+  isbn : 0-673-39829-3
+ callNumber: QA76.758.W35
+book available on shelves
+
+Author: Henry M. Walker
+ title: The Limits of Computing
+  isbn : 0-7637-2552-8
+ callNumber: QA76.W185
+book available on shelves
+
+Author: Henry M. Walker
+ title: The Tao of Computing
+  isbn : 0-86720-206-8
+ callNumber: QA76.W1855
+book available on shelves
+
+Author: John David Stone
+ title: Algorithms for functional programming
+  isbn : in process
+ callNumber: forthcoming
+book available on shelves
+
+End of book listing
+
