@@ -1,6 +1,6 @@
  /*****************************************************************
      * Bogdan Abaev Kaylin Kuhn                                               *
-     * PO Box Science II                                             *
+     * PO Box 3003                                              *
      * Program for CSC 207                                           *
      *    Library example                                   *
      * Assignment for October 3                        *
@@ -17,7 +17,7 @@
      *   is complete AND that I have not talked to anyone else       *
      *   [e.g., CSC 161 students] about the solution to this problem *
      *                                                               *
-     *   Signature:                                                  *
+     *   Signature:   Bogdan Abaev                                               *
      *****************************************************************/
 
 
