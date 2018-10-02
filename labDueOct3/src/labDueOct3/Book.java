@@ -1,24 +1,24 @@
  /*****************************************************************
-     * Bogdan Abaev Kaylin Kuhn                                               *
-     * PO Box 3003                                              *
-     * Program for CSC 207                                           *
-     *    Library example                                   *
-     * Assignment for October 3                        *
-     *****************************************************************/
+  * Bogdan Abaev Kaylin Kuhn                                      *
+  * PO Box 3003    3986                                           *
+  * Program for CSC 207                                           *
+  *    Library example                                            *
+  * Assignment for October 3                                      *
+ ******************************************************************/
 
 
-    /* ***************************************************************
-     * Academic honesty certification:                               *
-     *   Written/online sources used:                                *
-     *     none                         *
-     *   Help obtained                                               *
-     *     none             *
-     *   My signature below confirms that the above list of sources  *
-     *   is complete AND that I have not talked to anyone else       *
-     *   [e.g., CSC 161 students] about the solution to this problem *
-     *                                                               *
-     *   Signature:   Bogdan Abaev                                               *
-     *****************************************************************/
+ /* ***************************************************************
+  * Academic honesty certification:                               *
+  *   Written/online sources used:                                *
+  *     none                                                      *
+  *   Help obtained                                               *
+  *     none                                                      *
+  *   My signature below confirms that the above list of sources  *
+  *   is complete AND that I have not talked to anyone else       *
+  *   [e.g., CSC 161 students] about the solution to this problem *
+  *                                                               *
+  *   Signature:   Bogdan Abaev    Kaylin Kuhn                    *                      *
+  *****************************************************************/
 
 
 package labDueOct3;
